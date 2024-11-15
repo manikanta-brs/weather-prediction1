@@ -9,7 +9,7 @@ window.onload = function () {
 };
 
 const api_details = {
-  url: "http://api.openweathermap.org/data/2.5/",
+  url: "https://api.openweathermap.org/data/2.5/",
   api_key: "60bbd59ec7556e88c0f6b5a2080aebaa",
 };
 
